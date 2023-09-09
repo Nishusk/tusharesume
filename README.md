@@ -72,6 +72,11 @@ Open your web browser and navigate to `http://localhost:3000` to access the tush
     	<tr>
     		<th> - Register </th>
     	</tr>
+      <tr>
+    		<td>
+    			<img width="800px" height="400px" src="https://github.com/harsh6754">
+    			</td>
+    		</tr>
     	<tr>
     		<td>
     			<img width="800px" height="400px" src="https://github.com/Sapna2001/ResumeBuilder/blob/main/client/src/Resources/Screenshots/register.png">
